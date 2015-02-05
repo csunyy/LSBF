@@ -22,10 +22,10 @@ About Files
 How to use
 ----------
 
-./exact_query 200 200 2 dataset/200_data dataset/200_query
+`$ ./exact_query 200 200 2 dataset/200_data dataset/200_query`
 > The exact query result are 28, 96, 98. These three points meet the needs of query requests.
 
-./lsbf 200 200 2 dataset/200_data dataset/200_query
+`$ ./lsbf 200 200 2 dataset/200_data dataset/200_query`
 
 
 
